@@ -32,6 +32,21 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "83bf9ee7-7fd6-4a9a-b86a-ddc08b6d3b73"
+      }
+    },
+    "owner": "fplaza",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/83bf9ee7-7fd6-4a9a-b86a-ddc08b6d3b73"
     }
   }
 }
